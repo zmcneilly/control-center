@@ -10,7 +10,7 @@ This is to have fun, and show activity on GitHub, and practice something I enjoy
 
 ## High Level Architecture
 
-![HLA](C:\Users\zmcneilly\workspace\control-center\docs\HLA.png)
+![HLA](./HLA.png)
 
 ## Repository Structure
 
@@ -26,6 +26,7 @@ control-center/
 
 ## Technical Design Decisions
 
-- 2018-07-01 - This will use Django for RESTful API and a web front end
-- 2018-07-01 - This will use SaltStack because it's what I'm most familiar with
+- 2018-07-01 - This will use Django for RESTful API and a web front end.
+- 2018-07-01 - This will use SaltStack because it's what I'm most familiar with.
 - 2018-07-01 - This will use GCE because they give a $300 credit.
+- 2018-07-01 - UI Node and APP Node will use `ccui` and `ccapp` as working project names.
